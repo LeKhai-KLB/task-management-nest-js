@@ -1,0 +1,2 @@
+# add this for running production eviorment
+web: yarn start:prod
